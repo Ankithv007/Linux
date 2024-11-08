@@ -121,6 +121,9 @@ This document provides an end-to-end explanation of how user commands are handle
 By understanding these steps, you can gain deeper insights into how Linux operates internally and how the kernel ensures seamless interaction between user-space programs and hardware resources.
 
 ---
+![Linux Architecture](https://github.com/Ankithv007/Linux/blob/main/images/linux%20archite.jpeg)
+
+![Linux Architecture (Alternative)](https://github.com/Ankithv007/Linux/blob/main/images/linux_archi.jpeg)
 
 ## **References**
 

@@ -59,5 +59,7 @@ The Internet connects billions of devices worldwide, enabling communication, dat
 - Server: Processes requests and sends responses back to your device.
 - TCP/IP Protocols: Ensure reliable data transfer end-to-end.
 
+![How the Internet Works](https://github.com/Ankithv007/Linux/blob/main/images/internet-diagram%20(how%20internet%20works).gif)
 
+![OSI Model](https://github.com/Ankithv007/Linux/blob/main/images/cn1%20osi.png)
 
